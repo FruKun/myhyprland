@@ -12,4 +12,4 @@ cp -r ~/.config/swaylock ~/myhyprland/config/
 
 git add .
 git commit -m "update"
-git push i3wm main
+git push myhyprland main
